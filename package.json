@@ -1,0 +1,23 @@
+{
+  "name": "market_movers_server",
+  "version": "1.0.0",
+  "description": "A market movers dashboard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mangat-ram/market_movers_server.git"
+  },
+  "author": "Mangat Leelaram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mangat-ram/market_movers_server/issues"
+  },
+  "homepage": "https://github.com/mangat-ram/market_movers_server#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1"
+  }
+}
